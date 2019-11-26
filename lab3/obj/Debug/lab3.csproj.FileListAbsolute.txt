@@ -1,0 +1,7 @@
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\bin\Debug\lab3.exe
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\bin\Debug\lab3.pdb
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\obj\Debug\lab3.exe
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\obj\Debug\lab3.pdb
+D:\1AAAAAAAAAAAA\саод\3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
